@@ -5,7 +5,8 @@ This tutorial teaches you some of the basic concepts in [Vaadin Framework](https
 a fast read for learning how to get started - not an example on how application should be
 designed. Please note this example uses and requires Java 8 to work.
 
-![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
+![image](https://user-images.githubusercontent.com/68821814/146873829-cce98cd4-9a6b-46e1-886b-544cd7e6a585.png)
+
 
 
 Running the example from the command line
